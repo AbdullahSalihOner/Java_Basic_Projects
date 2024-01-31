@@ -2,7 +2,7 @@
 This repository is a comprehensive collection of diverse projects implemented in Java, ranging from simple calculators to complex games and utility tools. Each project is designed to demonstrate specific programming concepts, algorithms, and applications in real-world scenarios, leveraging the versatility and efficiency of Java.
 
 ## Calculators
-### Average Points Calculator (Java): A Java application designed to calculate the average of given numerical inputs, useful for academic and statistical purposes.
+#### Average Points Calculator (Java): A Java application designed to calculate the average of given numerical inputs, useful for academic and statistical purposes.
 Tax Calculator (Java): A Java-based tool that simplifies the process of calculating taxes based on varying rates and brackets.
 Hypotenuse Calculator (Java): Utilizes Java to apply the Pythagorean theorem for calculating the hypotenuse of a right-angled triangle.
 Taximeter Calculator (Java): A Java program that estimates taxi fares by considering distance, time, and predefined tariffs.
